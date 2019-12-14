@@ -1,0 +1,2 @@
+# RF_logistics_models_creator
+An app for Russian logistics company, which is applied specifically for their database. Program uses the output from logistics_data_processing app, that is represented in the repositories list. In RF_logistics_models_creator users can handle all the parameters of the database by applying arithmetic operations, different clustering and filtering methods. The output of the program is random forest model with an option of unsupervised learning clustering.
